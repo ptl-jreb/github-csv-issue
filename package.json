@@ -15,7 +15,7 @@
     "import",
     "export"
   ],
-  "repository": "https://github.com/ptl-jreb/github-csv-issue.git",
+  "repository": "https://github.com/gavinr/github-csv-issue.git",
   "author": "Gavin Rehkemper <gavin@gavinr.com> (http://gavinr.com/)",
   "license": "MIT",
   "dependencies": {
