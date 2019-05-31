@@ -1,0 +1,4 @@
+title,body,labels,assignee,milestone
+Issue 1, This is the Issue1 desc, "bug,js", ptl-jreb, test
+Issue 2, This is the test2 desc, "question,bug,css", ptl-jreb, 1
+Issue 3, testCloseOpen, "close,open,html", ptl-jreb, 1
